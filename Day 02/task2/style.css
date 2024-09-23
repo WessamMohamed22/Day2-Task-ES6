@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #56826d;
+    color: aliceblue;
+}
+#btn{
+    margin: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: #56826d;
+    border: 1px solid aliceblue;
+    padding: 5px;
+}
